@@ -1,4 +1,4 @@
-package pl.b2bnetwork;
+package pl.agatadziubala;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
